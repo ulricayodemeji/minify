@@ -1,2 +1,2 @@
 # minify
-test files
+allbirds.co.uk. checkout
